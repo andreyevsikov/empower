@@ -1,0 +1,50 @@
+.main {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.main-title {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px; /* 150% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-bottom: 37px;
+}
+
+.big-card {
+    position: relative;
+    margin-bottom: 40px;
+
+    h3 {
+        width: 490px;
+    }  
+}
+
+.little-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;  
+}
+
+.little-card-item {
+    position: relative;
+
+    h3 {
+        width: 420px;
+    }
+}
+
+.card-title {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+.card-btn {
+    position: absolute;
+    bottom: 60px;
+    left: 40px;
+}

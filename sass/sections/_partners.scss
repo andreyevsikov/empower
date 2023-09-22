@@ -1,0 +1,42 @@
+.partners {
+    background-color: #EFEFEF;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.partners-wrapper {
+}
+.partners-title {
+    color: #000;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px; /* 120% */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-bottom: 30px;
+}
+
+.partners-columns-wrapper {
+    // display: flex;
+    // justify-content: space-between;
+    // align-items: center;
+
+    // img {
+    //     margin-left: auto;
+    //     margin-right: auto;
+    // }
+}
+.partners-top-col {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.partners-bottom-col {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

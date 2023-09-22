@@ -1,0 +1,20 @@
+// Base
+@import "./base/vars";
+@import "./base/reset";
+@import "./base/base";
+
+// Sections
+@import "./sections/header";
+@import "./sections/footer";
+@import "./sections/awards";
+@import "./sections/main";
+@import "./sections/partners";
+@import "./sections/colors";
+@import "./sections/section-cta";
+@import "./sections/footer";
+
+
+// Blocks
+@import "./blocks/buttons";
+@import "./blocks/card-title";
+@import "./blocks/form";
